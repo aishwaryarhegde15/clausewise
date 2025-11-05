@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "doc_type": "string",
+    "doc_summary": "string"
+  },
+  "clauses": [
+    {
+      "index": "number",
+      "clause": "string",
+      "label": "string",
+      "risk_score": "number (0-100)",
+      "summary": "string",
+      "obligations": [
+        "string"
+      ],
+      "parties": [
+        "string"
+      ],
+      "flags": [
+        "string"
+      ]
+    }
+  ]
+}
